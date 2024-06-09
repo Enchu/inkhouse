@@ -1,0 +1,52 @@
+{
+  "catalog": [
+    {
+      "id": 1,
+      "author": "Марсель Руссо",
+      "title": "Охота Амура",
+      "description": "Холст, масло (50х80)",
+      "price": 14500,
+      "src": "../images/hunter.jpg"
+    },
+    {
+      "id": 2,
+      "author": "Анри Селин",
+      "title": "Дама с собачкой",
+      "description": "Акрил, бумага (50х80)",
+      "price": 16500,
+      "src": "../images/women2.jpg"
+    },
+    {
+      "id": 3,
+      "author": "Франсуа Дюпон",
+      "title": "Процедура",
+      "description": "Цветная литография (40х60)",
+      "price": 20000,
+      "src": "../images/pros3.jpg"
+    },
+    {
+      "id": 4,
+      "author": "Луи Детуш",
+      "title": "Роза",
+      "description": "Бумага, акрил (50х80)",
+      "price": 12000,
+      "src": "../images/rose4.jpg"
+    },
+    {
+      "id": 5,
+      "author": "Франсуа Дюпон",
+      "title": "Птичья трапеза",
+      "description": "Цветная литография (40х60) ",
+      "price": 22500,
+      "src": "../images/bird5.jpg"
+    },
+    {
+      "id": 6,
+      "author": "Пьер Моранж",
+      "title": "Пейзаж с рыбой",
+      "description": "Цветная литография (40х60)",
+      "price": 20000,
+      "src": "../images/fish6.jpg"
+    }
+  ]
+}
